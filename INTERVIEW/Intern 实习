@@ -55,10 +55,11 @@ message ^ (k * phi(n)) * m = 1 * m (2)
 ed = k*PHI(n) + 1
 - 对于任何质数 p => PHI(p) = p - 1
 - 对于两个互为质数的p和q PHI(p * q) = PHI(q) * PHI(p)
-PHI(17 * 23) = PHI(391) = 352
+PHI(17 * 23) = PHI(391) = 352 
     p     q         n
 选取k值和秘钥e值算出私钥d 此时p和q就不需要了 
+比如: (k = 5, e = 3, 算出d)
 e和n会被公布作为加密时用的公钥(public key)
 d会被保存下来作为解密时用的私钥(private key)
 由于其他人是不知道p和q这两个关键的质因数 是无法得到PHI(n)的 RSA利用信息不对等 
-让加密者能够快速构造出一个PHI(N) 而其他人无法在有限时间内求解
+让加密者能够快速构造出一个PHI(N) 而其他人无法在有限时间内求解 大数的质因数分解是非常困难的事情(computational infeasible)
