@@ -4,17 +4,14 @@ license安全算法整改
 SHA1属于过时的安全性较低的加密算法
 采用双签名License的解决方案
 
-
 License文件规范升级后 采用新的XML格式去显示双标签 License文件包含了客户销售以及公共信息
-
 
 老标签含有公司签名和产品签名 | 新标签是用来描述另外一对公司签名和产品签名
 
 VCG: 运行在公司ESDP IT系统的插件 用于给license签名
 单签名
 
-
-双签名
+# 双签名
 ESDP传入4个秘钥对和待签名的License 给VCG
 秘钥对A RSA2048公司秘钥对
 秘钥对B RSA2048产品秘钥对
@@ -29,15 +26,12 @@ ESDP传入4个秘钥对和待签名的License 给VCG
 ....
 得到最终的License就是最终ESDP下发的双签名License
 
-
-
-SHA加密算法
+# SHA加密算法
 one way encryption.
 哈希函数将信息或数据压缩成摘要 再讲数据打乱混合 重新创建一个散列值 通常用一个随机字母和数字来代表
 SHA256会产生一个256bit长度的哈希值 称为信息摘要
 
-
-RSA签名算法 公钥加密算法
+# RSA签名算法 公钥加密算法
 模运算是一种 单向计算容易 逆向反推很难 的求余运算。当N值很大时 反推是不现实的 所以也被称为单向函数(one-way function)
 (message ^ encrypt key) mod N = cipher 加密过程
 (cipher ^ decrypt key) mod N = message 解密过程
