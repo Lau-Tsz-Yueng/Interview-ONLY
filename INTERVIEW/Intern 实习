@@ -44,9 +44,10 @@ RSA签名算法 公钥加密算法
 N是公钥 是对所有人公开的信息
 
 message ^ (encrypt key * decrypt key) mod N = message  (1)
+如何选择这里的e和d成为了关键
 
 Euler's Theorem
-message ^ PHI(n) = 1 mod N 
+message ^ PHI(n) = 1 mod n 
 PHI(n) -> 小于或等于n的正整数中 有多少个与n互质的数 (Phi(6) = 2 (1 and 5)) {质因数分解}
 message ^ (k * phi(n)) * m = 1 * m (2)
 
