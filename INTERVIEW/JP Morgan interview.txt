@@ -1,0 +1,47 @@
+- What are the goals that you’ve established for yourself?
+electrical engineering -> comp sci
+1. courses
+2. leetcode
+2. competition
+3. unit choices : project
+4. internship 
+
+- Narrate a recent real life Learning Experience in your Life and what you’ve learnt from it.
+interviewing
+
+- Tell me something about your family background and schooling.
+business | 
+
+- Are you an introvert/extrovert?
+first time meet -> introvert
+long time -> extrovert
+
+- What are the things that people close to you appreciate the most in you?
+hard-working, determined -> career
+
+- If you had differences of opinion with team members, how do you resolve them?
+1、首先团队要有领袖，明确目标。不管多么和谐的团队一旦没有领袖，就基本上一定会出现问题，群龙无首说的就是这个意思。其次目标要明确，且一致，如果不奔着一个方向，团队力量就会越来越小，就像被渔网网住的鱼，每条都往不同的方向挣扎，最后只能被捕捞。
+2、在同一个目标，本着解决问题的方向，提出各自的意见和解决方法，由团队领袖收集并凭借自身的经验优势进行可行性验证，最终汇总，拿出可行性方案。
+3、执行力：在最终方案拿出来之后团队要明确并执行，不能因为某个人的某个建议没有被采纳就把情绪带进工作而不努力执行，方法是否正确要经过实践验证才知道，经验和技能优势只能避免显而易见的错误，这个世界上不存在完美的方案。
+4、收集错误，及时纠正。成功的团队比别人的多的就是错误的次数和经历，错误永远犯不完，但是如果你犯的错比别人多，就能在以后犯的错比别人少
+
+- How would you explain your project to a person with zero technical knowledge?
+metaphor, video, less abstract concepts 
+
+- Where do you see yourself in 5 years?
+software architect, more management skills and communicatio between teams
+
+- Given more time, what would you have done differently for the coding questions? (This is for both of the coding questions!)
+
+
+- Discuss a time in which you were a member of a successful team. What was your role and what were the challenges that you faced?
+
+
+Tell me about yourself
+
+Why JP Morgan
+1. world class working environment
+2. well-known worldwide
+3. work life balance
+4. security/crptography/ 
+
